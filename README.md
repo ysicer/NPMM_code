@@ -1,4 +1,4 @@
-# NPMM_code
+# NPMM_code, MATLAB version
 
 Original paper: Non-parametric mixture model with TV spatial regularisation and its dual expectation maximisation algorithm.
 
